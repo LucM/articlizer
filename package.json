@@ -1,8 +1,11 @@
 {
   "name": "articlizer",
-  "version": "0.0.0",
+  "version": "0.0.2",
   "description": "Transform a web page into a simple article.",
   "homepage": "",
+  "engines": {
+    "node": ">=4.2.4"
+  },
   "author": {
     "name": "Luc M",
     "email": "luc.momal@gmail.com",
